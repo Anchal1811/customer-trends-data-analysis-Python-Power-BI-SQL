@@ -1,5 +1,7 @@
 # Customer Shopping Trends Data Analysis 🛍️
 
+![Customer Trends Header](customer.png)
+
 A corporate-grade end-to-end data analytics workflow designed to translate raw consumer data into strategic business intelligence.
 
 ## 📌 Project Overview
